@@ -1,7 +1,7 @@
 # Cowin_Termux
 Find Vaccine for 18+ and get voice alert on mobile devices.
 
-**Script prepared by:** Harish Tiwari
+**Script prepared by:** Harish Tiwari (https://github.com/6odhi)
 
 **Modified By:** Rishabh Sharma (Me)
 
