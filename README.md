@@ -46,15 +46,16 @@ python findVaccineTermux.py
 **Edit repo:**
 
 Run below command:
-nano /data/data/com.termux/files/usr/etc/apt/sources.list
 
-add # in starting of the repo or URL to comemnt it and then add new repo URL
+***nano /data/data/com.termux/files/usr/etc/apt/sources.list***
 
-#deb https://termux.metaility.rip/..........
+**add # in starting of the repo or URL to comemnt it and then add new repo URL**
+
+***#deb https://termux.metaility.rip/..........***
 
 **deb https://termux.org/packages/ stable main**
 
-now comment on below repo by adding # in starting.
+***now comment on below repo by adding # in starting.***
 
 nano /data/data/com.termux/files/usr/etc/apt/sources.list.d/game.list
 
