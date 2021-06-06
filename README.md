@@ -37,3 +37,7 @@ apt install python3-pip
 git clone https://github.com/crazywifi/Cowin_Termux.git
 
 
+**Run**
+
+python findVaccineTermux.py
+
