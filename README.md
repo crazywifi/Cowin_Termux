@@ -41,6 +41,15 @@ git clone https://github.com/crazywifi/Cowin_Termux.git
 
 python findVaccineTermux.py
 
+
+#Automatic Installationa:\
+***curl --output install.sh https://raw.githubusercontent.com/crazywifi/Cowin_Termux/main/install.sh***
+***chmod +x install.sh***
+***./install.sh***
+
+
+
+
 ***If you are facing issue while updaing package like "Forbidden"***
 
 **Edit repo:**
