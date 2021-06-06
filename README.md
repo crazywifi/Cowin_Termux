@@ -1,14 +1,18 @@
 # Cowin_Termux
-Find Vaccine for 18+ and get voice alert. For Mobile device.
+Find Vaccine for 18+ and get voice alert on mobile devices.
 
-Script prepared by: Harish
+**Script prepared by:** Harish Tiwari
 
-Modified By: Rishabh (Me)
+**Modified By:** Rishabh Sharma (Me)
 
-Requirements:
+```Requirements:```
 
-*Install Termux from Playstore
+**1. Install Termux from Playstore**
 https://play.google.com/store/apps/details?id=com.termux&hl=en_IN&gl=US
 
-*Python3
+**2. Termux Packages**
+pkg install python3
+apt install termux-api mpv
+
+
 
