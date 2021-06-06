@@ -15,7 +15,10 @@ https://play.google.com/store/apps/details?id=com.termux&hl=en_IN&gl=US
 
 pkg install python3
 
-pkg install termux-api mpv
+pkg install termux-api mpv git
 
+**3. download code and sound file**
+
+git clone https://github.com/crazywifi/Cowin_Termux.git
 
 
