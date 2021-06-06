@@ -1,7 +1,7 @@
 echo "deb https://termux.org/packages/ stable main" > /data/data/com.termux/files/usr/etc/apt/sources.list
-cp /data/data/com.termux/files/usr/etc/apt/sources.list.d/game.list game.list.backup
+cp /data/data/com.termux/files/usr/etc/apt/sources.list.d/game.list /data/data/com.termux/files/usr/etc/apt/sources.list.d/game.list.backup
 rm /data/data/com.termux/files/usr/etc/apt/sources.list.d/game.list
-cp /data/data/com.termux/files/usr/etc/apt/sources.list.d/science.list science.list.backup
+cp /data/data/com.termux/files/usr/etc/apt/sources.list.d/science.list /data/data/com.termux/files/usr/etc/apt/sources.list.d/science.list.backup
 rm /data/data/com.termux/files/usr/etc/apt/sources.list.d/science.list
 pkg update
 pkg install python termux-api mpv git
