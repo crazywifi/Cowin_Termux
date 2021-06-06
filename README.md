@@ -18,9 +18,9 @@ https://play.google.com/store/apps/details?id=com.termux&hl=en_IN&gl=US
 **2. Termux Packages**
 (Python3)
 
-pkg install python
+pkg update
 
-pkg install termux-api mpv git
+pkg install python termux-api mpv git
 
 pip install requests
 
@@ -40,4 +40,27 @@ git clone https://github.com/crazywifi/Cowin_Termux.git
 **Run**
 
 python findVaccineTermux.py
+
+***If you are facing issue while updaing package like "Forbidden"***
+
+**Edit repo:**
+
+Run below command:
+nano /data/data/com.termux/files/usr/etc/apt/sources.list
+
+add # in starting of the repo or URL to comemnt it and then add new repo URL
+
+#deb https://termux.metaility.rip/..........
+
+**deb https://termux.org/packages/ stable main**
+
+now comment on below repo by adding # in starting.
+
+nano /data/data/com.termux/files/usr/etc/apt/sources.list.d/game.list
+
+nano /data/data/com.termux/files/usr/etc/apt/sources.list.d/science.list
+
+
+
+
 
