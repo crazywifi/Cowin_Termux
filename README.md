@@ -9,13 +9,13 @@ Find Vaccine for 18+ and get voice alert on mobile devices.
 
 https://www.cowin.gov.in/
 
-```Requirements:```
-
-**1. Install Termux from Playstore**
+# Requirements:
+```
+1. Install Termux from Playstore
 
 https://play.google.com/store/apps/details?id=com.termux&hl=en_IN&gl=US
 
-**2. Termux Packages**
+2. Termux Packages
 (Python3)
 
 pkg update
@@ -25,21 +25,20 @@ pkg install python termux-api mpv git
 pip install requests
 
 
-**3. download code and sound file**
+3. download code and sound file
 
 git clone https://github.com/crazywifi/Cowin_Termux.git
 
-
-**Run**
+Run
 
 python findVaccineTermux.py
-
-
-# Automatic Installationa:\
 ```
-***curl --output install.sh https://raw.githubusercontent.com/crazywifi/Cowin_Termux/main/install.sh***
-***chmod +x install.sh***
-***./install.sh***
+
+# Automatic Installationa:
+```
+curl --output install.sh https://raw.githubusercontent.com/crazywifi/Cowin_Termux/main/install.sh
+chmod +x install.sh
+./install.sh
 ```
 
 
