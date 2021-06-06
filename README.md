@@ -16,10 +16,16 @@ https://www.cowin.gov.in/
 https://play.google.com/store/apps/details?id=com.termux&hl=en_IN&gl=US
 
 **2. Termux Packages**
-
-pkg install python3
+(Python3)
+pkg install python
 
 pkg install termux-api mpv git
+
+pip install requests
+or
+pip3 install requests
+or
+apt install python3-pip
 
 **3. download code and sound file**
 
