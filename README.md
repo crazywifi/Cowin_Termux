@@ -15,7 +15,7 @@ https://play.google.com/store/apps/details?id=com.termux&hl=en_IN&gl=US
 
 pkg install python3
 
-apt install termux-api mpv
+pkg install termux-api mpv
 
 
 
