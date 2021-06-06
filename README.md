@@ -34,7 +34,7 @@ Run
 python findVaccineTermux.py
 ```
 
-# Automatic Installationa:
+# Automatic Installation:
 ```
 curl --output install.sh https://raw.githubusercontent.com/crazywifi/Cowin_Termux/main/install.sh
 chmod +x install.sh
