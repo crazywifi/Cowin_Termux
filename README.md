@@ -5,6 +5,10 @@ Find Vaccine for 18+ and get voice alert on mobile devices.
 
 **Modified By:** Rishabh Sharma (Me)
 
+**Cowin Website:**
+
+https://www.cowin.gov.in/
+
 ```Requirements:```
 
 **1. Install Termux from Playstore**
