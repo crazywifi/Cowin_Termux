@@ -7,9 +7,8 @@ Modified By: Rishabh (Me)
 
 Requirements:
 
-Install Termux from Playstore
-
+*Install Termux from Playstore
 https://play.google.com/store/apps/details?id=com.termux&hl=en_IN&gl=US
 
-Python3
+*Python3
 
