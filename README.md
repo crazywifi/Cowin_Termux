@@ -24,13 +24,6 @@ pkg install python termux-api mpv git
 
 pip install requests
 
-or
-
-pip3 install requests
-
-or
-
-apt install python3-pip
 
 **3. download code and sound file**
 
@@ -42,10 +35,12 @@ git clone https://github.com/crazywifi/Cowin_Termux.git
 python findVaccineTermux.py
 
 
-#Automatic Installationa:\
+# Automatic Installationa:\
+```
 ***curl --output install.sh https://raw.githubusercontent.com/crazywifi/Cowin_Termux/main/install.sh***
 ***chmod +x install.sh***
 ***./install.sh***
+```
 
 
 
